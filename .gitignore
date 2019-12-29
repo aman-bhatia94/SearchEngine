@@ -1,0 +1,9 @@
+.DS_Store
+InvertedIndex/.idea/
+Ranking/.idea/
+SearchScore/.idea/
+searchengine/.idea/
+InvertedIndex/out/
+Ranking/out/
+SearchScore/out/
+searchengine/out/
